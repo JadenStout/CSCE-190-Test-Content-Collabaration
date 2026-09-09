@@ -1,7 +1,7 @@
 Add events in the format below please
 repo owner: Jaden Stout-Reason
-Collabarater: xxxxxx
+Collabarater: Matthew Weathers
+Mini Blood Drive
 
-Event Title
-    * event location
-    * event time
+ location: Russell House Ballroom
+ time: 10am - 3pm
